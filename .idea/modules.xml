@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ProjectUseForDemo1.iml" filepath="$PROJECT_DIR$/ProjectUseForDemo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blurimage/blurimage.iml" filepath="$PROJECT_DIR$/blurimage/blurimage.iml" />
       <module fileurl="file://$PROJECT_DIR$/intentobj2/intentobj2.iml" filepath="$PROJECT_DIR$/intentobj2/intentobj2.iml" />
     </modules>
   </component>

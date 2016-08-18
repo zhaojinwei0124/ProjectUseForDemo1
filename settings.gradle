@@ -1,1 +1,1 @@
-include ':app', ':intentobj2'
+include ':app', ':intentobj2', ':blurimage'
