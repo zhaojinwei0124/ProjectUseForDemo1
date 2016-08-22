@@ -1,1 +1,1 @@
-include ':app', ':intentobj2', ':blurimage', ':drawerlayout_Demo'
+include ':app', ':intentobj2', ':blurimage', ':drawerlayout_Demo', ':demorecylerview'
