@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomView/CustomView.iml" filepath="$PROJECT_DIR$/CustomView/CustomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetWorkTypeUtil/NetWorkTypeUtil.iml" filepath="$PROJECT_DIR$/NetWorkTypeUtil/NetWorkTypeUtil.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProjectUseForDemo1.iml" filepath="$PROJECT_DIR$/ProjectUseForDemo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/blurimage/blurimage.iml" filepath="$PROJECT_DIR$/blurimage/blurimage.iml" />

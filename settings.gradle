@@ -1,1 +1,1 @@
-include ':app', ':intentobj2', ':blurimage', ':drawerlayout_Demo', ':demorecylerview'
+include ':app', ':intentobj2', ':blurimage', ':drawerlayout_Demo', ':demorecylerview', ':CustomView', ':NetWorkTypeUtil'
