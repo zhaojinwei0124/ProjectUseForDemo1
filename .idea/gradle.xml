@@ -9,8 +9,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CacheDemo" />
             <option value="$PROJECT_DIR$/CustomView" />
             <option value="$PROJECT_DIR$/NetWorkTypeUtil" />
+            <option value="$PROJECT_DIR$/QQLogin" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/blurimage" />
             <option value="$PROJECT_DIR$/demorecylerview" />
@@ -21,8 +23,10 @@
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CacheDemo" />
             <option value="$PROJECT_DIR$/CustomView" />
             <option value="$PROJECT_DIR$/NetWorkTypeUtil" />
+            <option value="$PROJECT_DIR$/QQLogin" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/blurimage" />
             <option value="$PROJECT_DIR$/demorecylerview" />

@@ -10,7 +10,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        String s=NetWorkTypeUtil.getNetworkType(this);
-        Toast.makeText(this,s,Toast.LENGTH_SHORT).show();
+//        String s=NetWorkTypeUtil.getNetworkType(this);
+//        Toast.makeText(this,s,Toast.LENGTH_SHORT).show();
+        if(NetWorkTypeUtil.getNetworkType(this)=="WIFI"||NetWorkTypeUtil.getNetworkType(this)=="4G"||NetWorkTypeUtil.getNetworkType(this)=="3G"){
+            Toast.makeText(this,"网络可用",Toast.LENGTH_SHORT).show();
+        }
     }
 }
