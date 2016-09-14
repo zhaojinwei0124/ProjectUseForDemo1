@@ -1,1 +1,1 @@
-include ':app', ':intentobj2', ':blurimage', ':drawerlayout_Demo', ':demorecylerview', ':CustomView', ':NetWorkTypeUtil', ':CacheDemo', ':QQLogin'
+include ':app', ':intentobj2', ':blurimage', ':drawerlayout_Demo', ':demorecylerview', ':CustomView', ':NetWorkTypeUtil', ':CacheDemo', ':QQLogin', ':TabLayout_ViewPager_Fragment', ':nohttp'

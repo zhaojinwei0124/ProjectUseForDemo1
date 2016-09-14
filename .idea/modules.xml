@@ -7,11 +7,13 @@
       <module fileurl="file://$PROJECT_DIR$/NetWorkTypeUtil/NetWorkTypeUtil.iml" filepath="$PROJECT_DIR$/NetWorkTypeUtil/NetWorkTypeUtil.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProjectUseForDemo1.iml" filepath="$PROJECT_DIR$/ProjectUseForDemo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/QQLogin/QQLogin.iml" filepath="$PROJECT_DIR$/QQLogin/QQLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TabLayout_ViewPager_Fragment/TabLayout_ViewPager_Fragment.iml" filepath="$PROJECT_DIR$/TabLayout_ViewPager_Fragment/TabLayout_ViewPager_Fragment.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/blurimage/blurimage.iml" filepath="$PROJECT_DIR$/blurimage/blurimage.iml" />
       <module fileurl="file://$PROJECT_DIR$/demorecylerview/demorecylerview.iml" filepath="$PROJECT_DIR$/demorecylerview/demorecylerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/drawerlayout_Demo/drawerlayout_Demo.iml" filepath="$PROJECT_DIR$/drawerlayout_Demo/drawerlayout_Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/intentobj2/intentobj2.iml" filepath="$PROJECT_DIR$/intentobj2/intentobj2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nohttp/nohttp.iml" filepath="$PROJECT_DIR$/nohttp/nohttp.iml" />
     </modules>
   </component>
 </project>
